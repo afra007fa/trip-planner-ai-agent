@@ -76,3 +76,9 @@ python -m streamlit run app.py
 - Route optimization
 - Budget estimation
 - Real AI itinerary generation
+## 🎥 Demo Video
+
+The project demonstration video is available in:
+demo/demo.mp4
+
+If GitHub cannot preview the video, click **View Raw** to download and watch it.
