@@ -1,0 +1,19 @@
+{"timestamp": "2026-06-30T11:30:52.469161", "city": "Paris", "poi_id": 1, "name": "Eiffel Tower", "vote": "up"}
+{"timestamp": "2026-06-30T11:30:56.987058", "city": "Paris", "poi_id": 4, "name": "Latin Quarter", "vote": "down"}
+{"timestamp": "2026-06-30T11:37:14.433488", "city": "Paris", "poi_id": 2, "name": "Louvre Museum", "vote": "down"}
+{"timestamp": "2026-06-30T11:37:16.322231", "city": "Paris", "poi_id": 1, "name": "Eiffel Tower", "vote": "up"}
+{"timestamp": "2026-06-30T11:37:21.274776", "city": "Paris", "poi_id": 4, "name": "Latin Quarter", "vote": "down"}
+{"timestamp": "2026-06-30T11:52:07.797180", "city": "Paris", "poi_id": 1, "name": "Eiffel Tower", "vote": "up"}
+{"timestamp": "2026-06-30T11:52:10.059684", "city": "Paris", "poi_id": 4, "name": "Latin Quarter", "vote": "down"}
+{"timestamp": "2026-06-30T13:40:31.035032", "city": "Paris", "poi_id": 130102845, "name": "Mus\u00e9e de l'Arm\u00e9e", "vote": "up"}
+{"timestamp": "2026-06-30T13:40:33.907839", "city": "Paris", "poi_id": 251318666, "name": "Mus\u00e9e national Gustave Moreau", "vote": "down"}
+{"timestamp": "2026-06-30T14:20:31.393515", "city": "london", "poi_id": 78112, "name": "Attraction Spot", "vote": "up"}
+{"timestamp": "2026-06-30T14:20:34.379605", "city": "london", "poi_id": 99882, "name": "Attraction Spot", "vote": "down"}
+{"timestamp": "2026-06-30T14:26:44.855860", "city": "tokyo", "poi_id": 31236733, "name": "Museum Spot", "vote": "up"}
+{"timestamp": "2026-06-30T14:26:47.831962", "city": "tokyo", "poi_id": 31236744, "name": "Museum Spot", "vote": "down"}
+{"timestamp": "2026-06-30T14:29:02.280687", "city": "paris", "poi_id": 125742, "name": "Mall Spot", "vote": "up"}
+{"timestamp": "2026-06-30T14:29:04.495542", "city": "paris", "poi_id": 360933, "name": "Mall Spot", "vote": "down"}
+{"timestamp": "2026-06-30T14:31:25.176342", "city": "paris", "poi_id": 125742, "name": "Park Spot", "vote": "up"}
+{"timestamp": "2026-06-30T14:31:27.288268", "city": "paris", "poi_id": 360935, "name": "Park Spot", "vote": "down"}
+{"timestamp": "2026-06-30T14:37:39.294097", "city": "paris", "poi_id": 360933, "name": "Attraction Spot", "vote": "up"}
+{"timestamp": "2026-06-30T14:37:41.629010", "city": "paris", "poi_id": 360935, "name": "Attraction Spot", "vote": "down"}
