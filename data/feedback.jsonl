@@ -17,3 +17,5 @@
 {"timestamp": "2026-06-30T14:31:27.288268", "city": "paris", "poi_id": 360935, "name": "Park Spot", "vote": "down"}
 {"timestamp": "2026-06-30T14:37:39.294097", "city": "paris", "poi_id": 360933, "name": "Attraction Spot", "vote": "up"}
 {"timestamp": "2026-06-30T14:37:41.629010", "city": "paris", "poi_id": 360935, "name": "Attraction Spot", "vote": "down"}
+{"timestamp": "2026-06-30T15:26:31.774473", "city": "paris", "poi_id": 125742, "name": "Restaurant Spot", "vote": "up"}
+{"timestamp": "2026-06-30T15:26:34.177163", "city": "paris", "poi_id": 360933, "name": "Restaurant Spot", "vote": "down"}
